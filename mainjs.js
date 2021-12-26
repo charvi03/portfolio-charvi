@@ -13,7 +13,7 @@ function myFunction(x) {
 
 
 var typed = new Typed('.typing-text', {
-  strings : ['web designer', 'digital marketer','Front end developer', 'graphic designer','web designer',],
+  strings : ['web designer', 'digital marketer','Front end developer', 'graphic designer',],
   loop : true,
   typeSpeed : 150
 });
